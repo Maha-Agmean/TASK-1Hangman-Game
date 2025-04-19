@@ -1,4 +1,4 @@
-# TASK-1Hangman-Game
+TASK-1Hangman-Game
 import random
 
 word_list = ['banana', 'guitar', 'rocket', 'jungle', 'wizard', 'planet']
